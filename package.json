@@ -1,0 +1,9 @@
+{
+  "name": "namedExport",
+  "dependencies": {
+    "css-loader": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "next",
+    "webpack-cli": "^3.3.12"
+  }
+}
